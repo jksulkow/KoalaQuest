@@ -1,0 +1,40 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="KoalaQuest.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    shell:SystemTray.IsVisible="False"
+    >
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid Background="#00b0be">
+        <Grid x:Name="LayoutRoot">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Assets/SplashScreen.png" Stretch="None"/>
+            </Grid.Background>
+        
+            <phone:WebBrowser x:Name="Browser"
+                              HorizontalAlignment="Stretch"
+                              VerticalAlignment="Stretch"
+                              Loaded="Browser_Loaded"
+						      NavigationFailed="Browser_NavigationFailed"
+                              ScriptNotify="Browser_ScriptNotify"                          
+                              Navigating="Browser_Navigating"
+                              IsScriptEnabled="True"
+                              Visibility="Visible"
+                              Source="/index.html"
+                              />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
+    
+    
