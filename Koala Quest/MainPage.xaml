@@ -15,11 +15,9 @@
     >
     
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid Background="#00b0be">
+    <Grid Background="#000000">
         <Grid x:Name="LayoutRoot">
-            <Grid.Background>
-                <ImageBrush ImageSource="/Assets/SplashScreen.png" Stretch="None"/>
-            </Grid.Background>
+            
         
             <phone:WebBrowser x:Name="Browser"
                               HorizontalAlignment="Stretch"
@@ -29,7 +27,7 @@
                               ScriptNotify="Browser_ScriptNotify"                          
                               Navigating="Browser_Navigating"
                               IsScriptEnabled="True"
-                              Visibility="Visible"
+                              Visibility="Collapsed"
                               Source="/index.html"
                               />
         </Grid>

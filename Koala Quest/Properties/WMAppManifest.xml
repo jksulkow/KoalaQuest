@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{17185885-6b0b-4faa-9a48-6bb599ca5b25}" Title="Koala Quest" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="JK Sulkow" Description="Koala Quest is a platform game with elements of a role-playing quest...Koala must pick up keys, treasure, and other objects to complete his quest.  Watch out for Aussie enemies such as the pink slug, cassowary, and wombat!" Publisher="Green Street Apps" PublisherID="{babbac3b-316e-4263-a01c-3883e7549593}">
+  <App xmlns="" ProductID="{68c61439-30d3-4912-9a20-f98d70eef227}" Title="Koala Quest" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="JK Sulkow" Description="Koala Quest is a platform game with elements of a role-playing quest...Koala must pick up keys, treasure, and other objects to complete his quest.  Watch out for Aussie enemies such as the pink slug, cassowary, and wombat!" Publisher="Green Street Apps" PublisherID="{68221edf-c554-4481-bf24-d93983a037af}">
     <IconPath IsRelative="true" IsResource="false">koalaquesticon2.png</IconPath>
     <Capabilities>
-      <Capability Name="ID_CAP_NETWORKING" />
       <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
-      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
-      <Capability Name="ID_CAP_SENSORS" />
       <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
     </Capabilities>
     <Tasks>
