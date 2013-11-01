@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{68c61439-30d3-4912-9a20-f98d70eef227}" Title="Koala Quest" RuntimeType="Silverlight" Version="1.1.0.0" Genre="apps.normal" Author="JK Sulkow" Description="Koala Quest is a platform game with elements of a role-playing quest...Koala must pick up keys, treasure, and other objects to complete his quest.  Watch out for Aussie enemies such as the pink slug, cassowary, and wombat!" Publisher="Green Street Apps" PublisherID="{68221edf-c554-4481-bf24-d93983a037af}">
+  <App xmlns="" ProductID="{68c61439-30d3-4912-9a20-f98d70eef227}" Title="Koala Quest" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="JK Sulkow" Description="Koala Quest is a platform game with elements of a role-playing quest...Koala must pick up keys, treasure, and other objects to complete his quest.  Watch out for Aussie enemies such as the pink slug, cassowary, and wombat!" Publisher="Green Street Apps" PublisherID="{68221edf-c554-4481-bf24-d93983a037af}">
     <IconPath IsRelative="true" IsResource="false">koalaquesticon2.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
@@ -17,16 +17,11 @@
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">koalaquesticon2.png</BackgroundImageURI>
           <Title>Koala Quest</Title>
-          <BackContent>
-          </BackContent>
-          <BackBackgroundImageURI>
-          </BackBackgroundImageURI>
-          <BackTitle>
-          </BackTitle>
-          <DeviceLockImageURI>
-          </DeviceLockImageURI>
-          <HasLarge>
-          </HasLarge>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <DeviceLockImageURI></DeviceLockImageURI>
+          <HasLarge></HasLarge>
         </TemplateFlip>
       </PrimaryToken>
     </Tokens>
@@ -37,3 +32,4 @@
     </ScreenResolutions>
   </App>
 </Deployment>
+<!-- WPSDK Version 8.0.9900 -->

@@ -1,5 +1,5 @@
-﻿<xapCache source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Debug\KoalaQuest_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/31/2013 9:29:59 PM">
-  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\obj\Debug\KoalaQuest.dll" archivePath="KoalaQuest.dll" lastWriteTime="10/31/2013 9:29:57 PM" />
+﻿<xapCache source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Release\KoalaQuest_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/31/2013 9:37:52 PM">
+  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\obj\Release\KoalaQuest.dll" archivePath="KoalaQuest.dll" lastWriteTime="10/31/2013 9:37:51 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="10/17/2013 9:00:39 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="10/17/2013 9:00:39 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="10/17/2013 9:00:39 PM" />
@@ -74,8 +74,8 @@
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\icon-114.png" archivePath="icon-114.png" lastWriteTime="10/30/2013 9:28:06 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\icon-128.png" archivePath="icon-128.png" lastWriteTime="10/30/2013 9:28:06 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\loading-logo.png" archivePath="loading-logo.png" lastWriteTime="10/30/2013 9:28:06 PM" />
-  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/30/2013 10:16:59 PM" />
-  <file source="C:\Users\jksulkow\Downloads\windowsphone\Windows Phone Plugin\Project\MockIAPLib\Bin\Debug\MockIAPLib.dll" archivePath="MockIAPLib.dll" lastWriteTime="10/1/2013 4:30:31 PM" />
+  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/31/2013 9:37:52 PM" />
+  <file source="C:\Users\jksulkow\Downloads\windowsphone\Windows Phone Plugin\Project\MockIAPLib\Bin\Release\MockIAPLib.dll" archivePath="MockIAPLib.dll" lastWriteTime="10/31/2013 9:37:49 PM" />
   <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\koalaquesticon2.png" archivePath="koalaquesticon2.png" lastWriteTime="10/8/2013 4:46:56 PM" />
-  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/30/2013 10:17:00 PM" />
+  <file source="C:\Users\jksulkow\Documents\GitHub\KoalaQuest\Koala Quest\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/31/2013 9:37:52 PM" />
 </xapCache>
